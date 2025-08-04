@@ -1,7 +1,8 @@
 ## Opa, me chamo Yarlei Rafael Willers 👋
 
-- 🔭 Hoje, trabalho como Assitente de Help Desk
-- 📙 Estudando Java com Spring Boot
+- 🎧 Hoje, trabalho como Assistente de Help Desk
+- 💻 Estudando Java com Spring Boot
+- 📚 Análise e Desenvolvimento de Sistemas - Unisinos
 - 📫 Contate-me no email: yarlei.willers@gmail.com
 
 <div style="display: inline_block">
