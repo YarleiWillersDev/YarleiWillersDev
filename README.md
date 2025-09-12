@@ -35,7 +35,7 @@
   </tr>
 </table>
 
-<h3>DevOps & Cloud</h3>
+<strong> DevOps & Cloud <strong>
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="40"/></td>
