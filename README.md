@@ -31,6 +31,14 @@
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" width="40"/></td>
+  </tr>
+</table>
+
+<h3>DevOps & Cloud</h3>
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="40"/></td>
   </tr>
 </table>
 
