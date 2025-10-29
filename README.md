@@ -2,7 +2,7 @@
 
 🎧 Hoje, trabalho como Analista de Suporte JR
 <br>
-💻 Estudando Java com Spring Boot
+💻 Desenvolvendo em Java + Spring Boot
 <br>
 📚 Análise e Desenvolvimento de Sistemas - Unisinos
 <br>
