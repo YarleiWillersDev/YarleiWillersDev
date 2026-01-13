@@ -1,6 +1,6 @@
 ## Opa, me chamo Yarlei Rafael Willers 👋
 
-🎧 Hoje, trabalho como Analista de Suporte JR
+🎧 Hoje, trabalho como Analista de Suporte
 <br>
 💻 Desenvolvendo em Java + Spring Boot
 <br>
