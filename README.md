@@ -2,7 +2,7 @@
 
 🎧 Hoje, trabalho como Analista de Suporte
 <br>
-💻 Desenvolvendo em Java + Spring Boot
+💻 Desenvolvedor Back-end
 <br>
 📚 Análise e Desenvolvimento de Sistemas - Unisinos
 <br>
@@ -14,6 +14,7 @@
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/></td>
   </tr>
 </table>
@@ -22,7 +23,7 @@
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40"/></td>
   </tr>
 </table>
 
